@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    margin-bottom: 1EM;
+    margin-top: 20px;
+    font-family: "Times New Roman", serif;
+    font-stretch: ultra-expanded;
+    font-weight: bold;
+    font-size: 500%;
+    color: red
+}
+h1.line {
+    border-bottom: 1px solid black;
+    padding-bottom: 50px
+}
+dt {
+    text-align: center;
+    font-size: 200%;
+    font-stretch: ultra-expanded;
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    color: #FF8C00;
+    margin: 30px;
+    border-color: #9400D3;
+    border-style: dotted;
+    border-width: 3pt;
+    padding: 10px
+}
+dd {
+    margin: 30px;
+    text-align: justify;
+    text-align-last: center;
+    font-family: monospace;
+    font-style: oblique;
+    font-size: 140%;
+    color: #4169E1
+}
+.fig {
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #00FF00
+}
+.leftfoto {
+    float: left;
+    margin: 8px 8px 8px 0
+}
+.rightfoto {
+    float: right;
+    margin: 8px 0 8px 20px
+}
